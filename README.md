@@ -1,4 +1,4 @@
-# MMAFinal_submission (6).pdf: Check this if you only want to see the final report
+# Check this if you only want to see the final report: -> MMAFinal_submission (6).pdf
 # MMA-com-2023
 ## Final place: 3rd
 Final1.ipynb: The All-in-one notebook that contains all our code  
